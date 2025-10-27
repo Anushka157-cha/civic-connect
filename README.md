@@ -79,6 +79,10 @@ The app supports both light and dark themes. Users can:
 
 [Place screenshots here showing key features of your app in both light and dark themes]
 
+##Backend
+<img width="1244" height="789" alt="Screenshot 2025-10-27 023218" src="https://github.com/user-attachments/assets/0f919c3c-a0f4-4b84-8509-c991fb8a5588" />
+
+
 ## 🛠 Technical Stack
 
 - React Native
